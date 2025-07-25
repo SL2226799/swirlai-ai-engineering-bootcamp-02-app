@@ -11,8 +11,8 @@ If you do need to run the code, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SL2226799/swirlai-ai-engineering-bootcamp-02.git
-cd swirlai-ai-engineering-bootcamp-02
+git clone https://github.com/SL2226799/swirlai-ai-engineering-bootcamp-02-app.git
+cd swirlai-ai-engineering-bootcamp-02-app
 ```
 
 ### 2. Copy Environment File
